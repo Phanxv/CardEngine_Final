@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1644398343 source:d:\work\c++\cardengine\card.cpp
+	"card.h"
+
+1644398351 d:\work\c++\cardengine\card.h
+
+1644398502 source:d:\work\c++\cardengine\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<time.h>
+	"card.h"
+	"deck.h"
+
+1644398667 d:\work\c++\cardengine\deck.h
+	"card.h"
+
+1644398680 source:d:\work\c++\cardengine\deck.cpp
+	"deck.h"
+	"card.h"
+	<iostream>
+	<ctime>
+
